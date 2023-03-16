@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) C# Eğitimi Diziler ders uygulaması. İçerisinde bir adet README dosyası ve proje dosyaları bulunmaktadır.
